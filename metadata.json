@@ -1,0 +1,11 @@
+{
+  "name": "TRAPNET AI - National Cognitive Security System",
+  "description": "Multimodal AI-Powered Fraud Investigation & Prevention Platform. From detecting a scam to understanding the entire attack.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
